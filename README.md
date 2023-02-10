@@ -1,6 +1,6 @@
 # SqueezeNext-AlexNet-Implementation
 
-This is an implementation for the supporting blog: <link here>
+This is an implementation for the supporting blog: https://medium.com/sfu-cspmp/squeezenet-the-key-to-unlocking-the-potential-of-edge-computing-c8b224d839ba
 
 ## What is SqueezeNet?
 
